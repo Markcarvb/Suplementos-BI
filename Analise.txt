@@ -1,0 +1,23 @@
+          Analise possiveis
+
+numero de pedidos V
+
+venda total V
+
+pedidos por mês V
+
+faturamento por loja V
+
+margem media mensal V
+
+produtos mais faturados V
+
+filtros: região V
+
+
+
+
+
+
+
+
